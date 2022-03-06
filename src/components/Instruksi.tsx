@@ -6,7 +6,7 @@ import { useNavigate } from "react-router-dom";
 
 const Intruksi = () => {
   const navigate = useNavigate();
-  const solution = "ASS"; // LIST FROM DATA
+  const solution = "TEST"; // LIST FROM DATA
 
   return (
     <>
