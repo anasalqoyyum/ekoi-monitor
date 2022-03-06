@@ -1,0 +1,27 @@
+.todo-list {
+  font-family: "Poppins", sans-serif;
+  width: 95%;
+}
+
+.checklist-image {
+  width: 5%;
+  float: left;
+}
+
+li {
+  margin-left: auto;
+  font-size: 16px;
+}
+
+.laksanakan {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intruksi-hand {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}

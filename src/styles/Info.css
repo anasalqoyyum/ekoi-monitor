@@ -1,0 +1,14 @@
+.top {
+  @apply bg-[#FF9E44];
+  padding-top: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.article {
+  background: white;
+}
+
+.article > h2, p {
+  margin: 4px;
+  font-size: 85%;
+}
