@@ -22,7 +22,7 @@ const Login = () => {
     <>
       <Header />
       <img className="aspect-square login-image" src={mbakLogin} />
-      <form onSubmit={submit} className="text-center pt-4 mb-0 bg-[#FF9E44] rounded-t-[50px] min-h-[57vh]">
+      <form onSubmit={submit} className="text-center pt-4 mb-0 bg-[#FF9E44] rounded-t-[50px] min-h-[60vh]">
         <div className="sambutan m-5 mb-8 pt-2 text-center">
           <p className="text-2xl">Selamat datang!</p>
           <p className="text-base">Silahkan login terlebih dahulu</p>
