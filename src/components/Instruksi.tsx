@@ -49,7 +49,7 @@ const Intruksi = () => {
       "Taburkan tawas, daun ketapan, asam klorida, batang pepaya",
     ], //ph
     ["Buka penutup kolam, gunakan heater(pemanas air)", "Nyalakan pompa"], //suhu
-    ["[kurang]", "[lebih]"], //tds
+    ["Hidupkan pompa, tambahkan nitrat atau nitrit", "Tambahkan air, hidupkan filter, bersihkan kotoran di kolam"], //tds
     ["", "Ganti air kolam, gunakan claykoi(obat penjernih kolam)"], //turby
   ];
   const arrayData = [data.v0, data.v1, data.v2, data.v3];
